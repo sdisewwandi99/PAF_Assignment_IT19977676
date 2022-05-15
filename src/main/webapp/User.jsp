@@ -15,7 +15,7 @@
 .frm{ padding-top:20px; padding-right: 50px; background-color: #ede1a8; border-right: 1px solid grey; }
 </style>
 <title>User Management</title>
-</head>
+</head> 
 <body style="background-color:#e6edd1; padding-top: 20px;">
 	<div class="container" style="box-shadow: 1px 15px 30px #404037; background-color:#f2ffcf;">
 	<h1 style="margin:20px 0px 20px 400px; padding-top: 10px;">User Management</h1>
