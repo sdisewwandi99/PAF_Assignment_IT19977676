@@ -52,7 +52,7 @@ $(document).on("click", ".btnRemove", function(event) {
 
 
 
-// CLIENT-MODEL================================================================
+// CLIENT-MODEL==============================
 function validateUserForm() {
 	// CODE
 	if ($("#nic").val().trim() == "") {
